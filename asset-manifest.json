@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/myport/static/css/main.f4ab0b7c.chunk.css",
-    "main.js": "/myport/static/js/main.422eaa10.chunk.js",
-    "main.js.map": "/myport/static/js/main.422eaa10.chunk.js.map",
+    "main.js": "/myport/static/js/main.75d926d1.chunk.js",
+    "main.js.map": "/myport/static/js/main.75d926d1.chunk.js.map",
     "runtime-main.js": "/myport/static/js/runtime-main.1c95e1d2.js",
     "runtime-main.js.map": "/myport/static/js/runtime-main.1c95e1d2.js.map",
-    "static/js/2.e9cc3a60.chunk.js": "/myport/static/js/2.e9cc3a60.chunk.js",
-    "static/js/2.e9cc3a60.chunk.js.map": "/myport/static/js/2.e9cc3a60.chunk.js.map",
+    "static/js/2.88c63972.chunk.js": "/myport/static/js/2.88c63972.chunk.js",
+    "static/js/2.88c63972.chunk.js.map": "/myport/static/js/2.88c63972.chunk.js.map",
     "static/js/3.621e2678.chunk.js": "/myport/static/js/3.621e2678.chunk.js",
     "static/js/3.621e2678.chunk.js.map": "/myport/static/js/3.621e2678.chunk.js.map",
     "index.html": "/myport/index.html",
     "static/css/main.f4ab0b7c.chunk.css.map": "/myport/static/css/main.f4ab0b7c.chunk.css.map",
-    "static/js/2.e9cc3a60.chunk.js.LICENSE.txt": "/myport/static/js/2.e9cc3a60.chunk.js.LICENSE.txt",
+    "static/js/2.88c63972.chunk.js.LICENSE.txt": "/myport/static/js/2.88c63972.chunk.js.LICENSE.txt",
     "static/media/0.4f00b3a0.obj": "/myport/static/media/0.4f00b3a0.obj",
     "static/media/gameoflifestyle.css": "/myport/static/media/backImg.9b0a3633.jpg",
     "static/media/barber.css": "/myport/static/media/slider2.fdd05288.jpg",
@@ -41,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1c95e1d2.js",
-    "static/js/2.e9cc3a60.chunk.js",
+    "static/js/2.88c63972.chunk.js",
     "static/css/main.f4ab0b7c.chunk.css",
-    "static/js/main.422eaa10.chunk.js"
+    "static/js/main.75d926d1.chunk.js"
   ]
 }
