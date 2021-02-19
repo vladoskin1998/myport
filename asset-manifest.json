@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/myport/static/css/main.44547b3a.chunk.css",
-    "main.js": "/myport/static/js/main.b9637642.chunk.js",
-    "main.js.map": "/myport/static/js/main.b9637642.chunk.js.map",
+    "main.css": "/myport/static/css/main.f4ab0b7c.chunk.css",
+    "main.js": "/myport/static/js/main.fc48f4ef.chunk.js",
+    "main.js.map": "/myport/static/js/main.fc48f4ef.chunk.js.map",
     "runtime-main.js": "/myport/static/js/runtime-main.1c95e1d2.js",
     "runtime-main.js.map": "/myport/static/js/runtime-main.1c95e1d2.js.map",
     "static/js/2.e9cc3a60.chunk.js": "/myport/static/js/2.e9cc3a60.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.621e2678.chunk.js": "/myport/static/js/3.621e2678.chunk.js",
     "static/js/3.621e2678.chunk.js.map": "/myport/static/js/3.621e2678.chunk.js.map",
     "index.html": "/myport/index.html",
-    "static/css/main.44547b3a.chunk.css.map": "/myport/static/css/main.44547b3a.chunk.css.map",
+    "static/css/main.f4ab0b7c.chunk.css.map": "/myport/static/css/main.f4ab0b7c.chunk.css.map",
     "static/js/2.e9cc3a60.chunk.js.LICENSE.txt": "/myport/static/js/2.e9cc3a60.chunk.js.LICENSE.txt",
     "static/media/0.4f00b3a0.obj": "/myport/static/media/0.4f00b3a0.obj",
     "static/media/gameoflifestyle.css": "/myport/static/media/backImg.9b0a3633.jpg",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.1c95e1d2.js",
     "static/js/2.e9cc3a60.chunk.js",
-    "static/css/main.44547b3a.chunk.css",
-    "static/js/main.b9637642.chunk.js"
+    "static/css/main.f4ab0b7c.chunk.css",
+    "static/js/main.fc48f4ef.chunk.js"
   ]
 }
