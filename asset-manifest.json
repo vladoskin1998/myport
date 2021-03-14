@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/myport/static/css/main.0c0d6d02.chunk.css",
-    "main.js": "/myport/static/js/main.a4deecab.chunk.js",
-    "main.js.map": "/myport/static/js/main.a4deecab.chunk.js.map",
+    "main.css": "/myport/static/css/main.4f385979.chunk.css",
+    "main.js": "/myport/static/js/main.e66fe613.chunk.js",
+    "main.js.map": "/myport/static/js/main.e66fe613.chunk.js.map",
     "runtime-main.js": "/myport/static/js/runtime-main.f8b21ef2.js",
     "runtime-main.js.map": "/myport/static/js/runtime-main.f8b21ef2.js.map",
     "static/js/2.9718f01b.chunk.js": "/myport/static/js/2.9718f01b.chunk.js",
@@ -10,12 +10,14 @@
     "static/js/3.0ba1d3bb.chunk.js": "/myport/static/js/3.0ba1d3bb.chunk.js",
     "static/js/3.0ba1d3bb.chunk.js.map": "/myport/static/js/3.0ba1d3bb.chunk.js.map",
     "index.html": "/myport/index.html",
-    "static/css/main.0c0d6d02.chunk.css.map": "/myport/static/css/main.0c0d6d02.chunk.css.map",
+    "static/css/main.4f385979.chunk.css.map": "/myport/static/css/main.4f385979.chunk.css.map",
     "static/js/2.9718f01b.chunk.js.LICENSE.txt": "/myport/static/js/2.9718f01b.chunk.js.LICENSE.txt",
     "static/media/0.4f00b3a0.obj": "/myport/static/media/0.4f00b3a0.obj",
+    "static/media/01.4cf691cb.png": "/myport/static/media/01.4cf691cb.png",
+    "static/media/02.4b777aeb.png": "/myport/static/media/02.4b777aeb.png",
+    "static/media/03.9c944936.png": "/myport/static/media/03.9c944936.png",
+    "static/media/App.scss": "/myport/static/media/goudy_bookletter_1911-webfont.f8a448b6.ttf",
     "static/media/gameoflifestyle.css": "/myport/static/media/backImg.9b0a3633.jpg",
-    "static/media/barber.css": "/myport/static/media/slider2.fdd05288.jpg",
-    "static/media/index.css": "/myport/static/media/pirolimg.6734a866.png",
     "static/media/colorHover.ab42cccf.png": "/myport/static/media/colorHover.ab42cccf.png",
     "static/media/designHover.2f767eb6.png": "/myport/static/media/designHover.2f767eb6.png",
     "static/media/earthcolor.f903b443.png": "/myport/static/media/earthcolor.f903b443.png",
@@ -29,10 +31,9 @@
     "static/media/eight_item8.10c75063.png": "/myport/static/media/eight_item8.10c75063.png",
     "static/media/face.06862bcb.png": "/myport/static/media/face.06862bcb.png",
     "static/media/forWhom.0d0e622f.png": "/myport/static/media/forWhom.0d0e622f.png",
-    "static/media/gentelman.8dd01665.jpg": "/myport/static/media/gentelman.8dd01665.jpg",
+    "static/media/index.css": "/myport/static/media/vikinginm.14961c19.png",
     "static/media/heder_img.01a720e9.png": "/myport/static/media/heder_img.01a720e9.png",
     "static/media/line_prof.b089ced5.jpg": "/myport/static/media/line_prof.b089ced5.jpg",
-    "static/media/logo.f73db6f0.png": "/myport/static/media/logo.f73db6f0.png",
     "static/media/modeHover.e0d48054.png": "/myport/static/media/modeHover.e0d48054.png",
     "static/media/rizorHovertrack.a8fc2082.png": "/myport/static/media/rizorHovertrack.a8fc2082.png",
     "static/media/saw.5351ed5a.png": "/myport/static/media/saw.5351ed5a.png",
@@ -42,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.f8b21ef2.js",
     "static/js/2.9718f01b.chunk.js",
-    "static/css/main.0c0d6d02.chunk.css",
-    "static/js/main.a4deecab.chunk.js"
+    "static/css/main.4f385979.chunk.css",
+    "static/js/main.e66fe613.chunk.js"
   ]
 }
